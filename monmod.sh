@@ -1,4 +1,5 @@
 sudo airmon-ng check kill
-sudo airmon-ng start wlan0
+read -p "Enter your wifi-adapter name : " Adap
+sudo airmon-ng start $Adap
 sudo airmon-ng
-sudo airodump-ng wlan0
+sudo airodump-ng $Adap
