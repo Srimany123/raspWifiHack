@@ -16,7 +16,7 @@ Let's see how to set moitor mode.</h3>
   sudo chmod +x *.sh
   monmod.sh</pre>
 <p>after executing this command, output looks like following</p>
-<img src="wifiH/rasp1">
+<img src="wifiH\rasp1">
 <p>then type your network adaptor name, this commands will set the wifi adapter to monitor mode.</p>
 <p>now we can see all the wifi networks that are discoverable near us</p>
 <p> now note the wifi bssid and channel in which it is running(in my case it is)</p>
