@@ -1,7 +1,7 @@
 <h1 align="center">Hacking Wifi using Raspberry pi</h1>
 <p>This repository is helpful for people who are very new to wifi hacking. This is a little scripts using bash.</p>
-<p>
-various steps involved are:</p>
+<h5>
+various steps involved are:</h5>
 <p>&#x2022; setting to monitor mode</p>
 <p>&#x2022; running airodump-ng.</p>
 <p>&#x2022; running and storing .cap files and data.</p>
