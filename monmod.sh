@@ -1,3 +1,4 @@
+sudo apt install aircrack-ng
 sudo airmon-ng check kill
 read -p "Enter your wifi-adapter name : " Adap
 sudo airmon-ng start $Adap
