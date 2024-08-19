@@ -14,7 +14,7 @@ Let's see how to set moitor mode.</h3>
 <p> To set a wifi adapter which is used for pentesting. type the following command:</p>
 <pre>
   sudo chmod +x *.sh
-  monmod.sh</pre>
+  ./monmod.sh</pre>
 <p>after executing this command, output looks like following</p>
 <ahref="wifiH/rasp1.jpg">
 <p>then type your network adaptor name, this commands will set the wifi adapter to monitor mode.</p>
